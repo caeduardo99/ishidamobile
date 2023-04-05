@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Delibery</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Password">Contraseña</string>
+    <string name="Bottonlogin">Login</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="calcula_tu_ruta">Calcula tu ruta</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543058215769",
+    "project_id": "delibery-4b257",
+    "storage_bucket": "delibery-4b257.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543058215769:android:7cd57eb012d797b9f10248",
+        "android_client_info": {
+          "package_name": "com.ibs.delibery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543058215769-2k5tbivgdau9gp5ol6ngplcovm1181ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRXVwHR8yLKZZ0f1bvg_pqSTmWQu4CMe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543058215769-2k5tbivgdau9gp5ol6ngplcovm1181ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
